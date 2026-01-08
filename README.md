@@ -1,1 +1,1 @@
-# E-Commerce-Sales-Charts
+To analyze e-commerce sales data to identify key sales trends, customer behavior, and product performance. The goal is to deliver actionable insights for improving sales strategies and customer engagement.
